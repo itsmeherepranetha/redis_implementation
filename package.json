@@ -1,0 +1,24 @@
+{
+  "name": "redis_implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeherepranetha/redis_implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/itsmeherepranetha/redis_implementation/issues"
+  },
+  "homepage": "https://github.com/itsmeherepranetha/redis_implementation#readme",
+  "dependencies": {
+    "redis-parser": "^3.0.0"
+  }
+}
